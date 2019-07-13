@@ -1,5 +1,5 @@
 <template>
-  <div class="index">555</div>
+  <div class="index">旅游攻略</div>
 </template>
 <script>
 export default {};
